@@ -1,1 +1,1 @@
-# sjcet-tesseract.github.io
+This repo is no longer active.
